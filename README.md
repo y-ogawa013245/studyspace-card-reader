@@ -1,0 +1,2 @@
+# studyspace-card-reader
+自習室StudySpaceの入退室管理システムに利用するカードリーダーとマイコンの組み込み用プログラム
